@@ -6,7 +6,7 @@ Baby Name Dataset
 **Team Members and Names**
 
 Group 5
-- [https://github.com/giselhernandezv/MIST-4610-Project-2-Group-5/tree/main]Gisel Hernandez-Vazquez
+- [Gisel Hernandez-Vazquez](https://github.com/giselhernandezv/MIST-4610-Project-2-Group-5/tree/main)
 - Ansley Hankinson
 - Lukas Cornish
 - Samuel White
