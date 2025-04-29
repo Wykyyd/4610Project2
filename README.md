@@ -7,7 +7,7 @@ Baby Name Dataset
 
 Group 5
 - [Gisel Hernandez-Vazquez](https://github.com/giselhernandezv/MIST-4610-Project-2-Group-5/tree/main)
-- Ansley Hankinson
+- [Ansley Hankinson](https://github.com/ansleyhankinson/Project-2/tree/main)
 - Lukas Cornish
 - Samuel White
 - Malhar Sethia
