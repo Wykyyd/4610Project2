@@ -9,7 +9,7 @@ Group 5
 - [Gisel Hernandez-Vazquez](https://github.com/giselhernandezv/MIST-4610-Project-2-Group-5/tree/main)
 - [Ansley Hankinson](https://github.com/ansleyhankinson/Project-2/tree/main)
 - Lukas Cornish
-- Samuel White
+- [Samuel White](https://github.com/Wykyyd/4610Project2)
 - Malhar Sethia
 
 Baby Name Dataset Visualization Project 
