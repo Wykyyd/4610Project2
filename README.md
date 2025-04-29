@@ -10,7 +10,7 @@ Group 5
 - [Ansley Hankinson](https://github.com/ansleyhankinson/Project-2/tree/main)
 - [Lukas Cornish](https://github.com/LukasCornish/Project-2)
 - [Samuel White](https://github.com/Wykyyd/4610Project2)
-- Malhar Sethia
+- [Malhar Sethia](https://github.com/MalharSethia/Project2MIST4610)
 
 Baby Name Dataset Visualization Project 
 -
