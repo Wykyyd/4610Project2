@@ -34,6 +34,7 @@ https://catalog.data.gov/dataset/popular-baby-names
 
 - **Year:** Birth Year Registration
 - **Ethnicity:** Population Group
+- **Standardized Ethnicity:** Population Group (combined same ethincities spelled differently)
 - **Name:** Assigned Birth Name (first name only)
 - **Gender:** Female and Male
 - **Count:** Number of Babies Given the Name
@@ -43,7 +44,7 @@ https://catalog.data.gov/dataset/popular-baby-names
 -
 
 We had to put the data into excel power query to transform the data into a workable one.
-One of the most significant changes made is we removed any duplicates, ascended by rank, ascended by year, and ascended by ethncity. This organization helped us understand the data better and make it easier for Tableau to read.
+The changes we made were: removed any duplicates, created a Standard Ethnicites column to fix differencs in ethnicity names, made the Child's First Name column uppercase to fix case differences, ascended by year, ascended by rank, and ascended by ethncity. This organization helped us understand the data better and make it easier for Tableau to read.
 
 ![Image](https://github.com/user-attachments/assets/66a19166-8c8e-4070-8c26-2e2b9163b41d)
 
