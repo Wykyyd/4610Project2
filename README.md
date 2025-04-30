@@ -64,7 +64,7 @@ Analyzing the ethnic distribution of popular baby names can reveal patterns that
 
 **Findings**
 
-Many of the top names were more shown across the Hispanic ethnicity and white non-hispanic ethnicity. Ethan was the top popular name for Asian and Pacific Islander ethnicity, Noah was the top popular name for Black non hispanic ethnicity, Liam was the top popular name for hispanic ethnicity, and David was top popular name for White non-hispanic. Asian and Pacfic Islander ethnicity had the lowest show out for the top 15 popular names. Some names are more ethnically diverse, while others highlight specific ethnic trends, indicating cultural biases.
+Certain names show strong ethnic clustering such as Liam and Isabella among Hispanic children, David and Joseph among White Non-Hispanic children, Ethan within the Asian and Pacific Islander group, and Noah within the Black group. Some names such as Ava, Daniel, and Ryan appear strongly across all ethinic groups in the dataset, suggesting those nmaes have more broad cultural appeal. Some names are more ethnically diverse, while others highlight specific ethnic trends, indicating cultural biases.
 
 **QUESTION 2: How common are gender-neutral baby names in New York City?**
 - 
@@ -84,3 +84,5 @@ Most of the gender neutral names had a balance of usage between female and male 
 ![image](https://github.com/user-attachments/assets/2c5c7104-0978-4b4c-b5b3-46cea809cefe)
 
 The aggregate function used was named Gender Neutrality score. If the score indicated a 1, the name was used equally among male and female gender. A score of .65 would mean there would be 65 names of one gender and 100 names of the other gender.
+
+**Tableau Packaged Workbook**
