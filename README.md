@@ -27,7 +27,9 @@ https://catalog.data.gov/dataset/popular-baby-names
 -
 
 - **Rows:** 69,215
+- **Adjusted Rows:** 21,613
 - **Columns:** 6
+- **Adjusted Columns:** 7
 
 **Columns Descriptions**
 -
