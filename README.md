@@ -84,5 +84,6 @@ Most of the gender neutral names had a balance of usage between female and male 
 ![image](https://github.com/user-attachments/assets/2c5c7104-0978-4b4c-b5b3-46cea809cefe)
 
 The aggregate function used was named Gender Neutrality score. If the score indicated a 1, the name was used equally among male and female gender. A score of .65 would mean there would be 65 names of one gender and 100 names of the other gender.
--
+
 Tableau Packaged Workbook
+-
