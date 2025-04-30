@@ -77,7 +77,7 @@ This chart analyzes the most gender-neutral baby name from 2011-2021 in the New 
 
 **Findings**
 
-Most of the gender neutral names had a balance of usage between female and male children. The top name usage among both was Ariel, with female count having used the name more than male. The second popular name was Alexis, with the male cout using the name more than female. Skyler, Finlet, Jia, and Nana had a strong balance of usuage amongst both male and female. These 9 names were the names that scored more than .65 on the Gender Neutrality score, suggesting that gender neautral names are still not as common for a place as diverse as NYC. The darker the color, the higher the gender neutrality score. 
+Most of the gender neutral names had a balance of usage between female and male children. The top name usage among both was Ariel, with female count having used the name more than male. The second popular name was Alexis, with the male cout using the name more than female. Skyler, Finlet, Jia, and Nana had a strong balance of usuage amongst both male and female. These 9 names were the names that scored more than .65 on the Gender Neutrality score, suggesting that gender neautral names are still not as common for a place as diverse as NYC. We chose .65 as that is the standard metric. The darker the color, the higher the gender neutrality score. 
 
 **Aggregate Function**
 
