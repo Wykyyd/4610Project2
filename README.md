@@ -69,7 +69,7 @@ Many of the top names were more shown across the Hispanic ethnicity and white no
 **QUESTION 2: How common are gender-neutral baby names in New York City?**
 - 
 
-![Image](https://github.com/user-attachments/assets/4446f75e-6b03-44b4-a8cb-3ffb14ba812f)
+![Image](https://github.com/user-attachments/assets/057aaea0-f3a9-4f79-827b-5a0fbdc960a7)
 
 
 **Analysis**
