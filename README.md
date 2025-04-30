@@ -46,7 +46,7 @@ https://catalog.data.gov/dataset/popular-baby-names
 -
 
 We had to put the data into excel power query to transform the data into a workable one.
-The changes we made were: removed any duplicates, created a Standard Ethnicites column to fix differencs in ethnicity names, made the Child's First Name column uppercase to fix case differences, ascended by year, ascended by rank, and ascended by ethncity. This organization helped us understand the data better and make it easier for Tableau to read.
+The changes we made were: removed any duplicates, created a Standard Ethnicites column to fix differencs in ethnicity names, made the Child's First Name column uppercase to fix case differences, ascended by year, rank, and ethncity. This organization helped us understand the data better and make it easier for Tableau to interpret.
 
 ![Image](https://github.com/user-attachments/assets/ef16565e-10b0-4fe0-a795-8ca6a46a137f)
 
