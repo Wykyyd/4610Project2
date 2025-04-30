@@ -31,7 +31,7 @@ https://catalog.data.gov/dataset/popular-baby-names
 - **Columns:** 6
 - **Adjusted Columns:** 7
 
-**Columns Descriptions**
+**Column Descriptions**
 -
 
 - **Year:** Birth Year Registration
