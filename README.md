@@ -55,7 +55,7 @@ Questions & Findings/Analysis
 **QUESTION 1: How does the popularity of the top 15 names vary across different ethinicities?**
 -
 
-<img width="1225" alt="Image" src="https://github.com/user-attachments/assets/2fa24b0b-c338-467c-9a57-5c319008a288" />
+<img width="1225" alt="Image" src="https://github.com/user-attachments/assets/4e226ed1-ea89-44b5-bef4-3abf4605b499" />
 
 
 **Analysis**
